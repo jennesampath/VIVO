@@ -1,0 +1,35 @@
+Github
+
+to store our code secure
+it is a centralized repository for storing the code
+
+Repository (Repo) = like a folder
+Local - our computer
+
+
+
+Installation
+1. github account required
+2. need to create a repository in github
+3. to push the code we have to instal code in our local
+4. instal git 
+5. select the git tool, right click run as administator (instal completed)
+
+
+
+uploading code from local to central
+there will be a three faces
+1.working area (git status -red color)
+2.staging area (git status -green color)
+3.loacl repo
+
+Comands
+git staus
+untracked files:(red color)
+git add (file name)
+git add -A (it will select all files)
+
+
+
+
+

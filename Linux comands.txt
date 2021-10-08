@@ -1,0 +1,19 @@
+pwd - present working directory
+touch - to create a zero bite file
+ls - list files
+ls -l = long list of files
+ls -lrt =
+ls -la =long list with hidden files
+mkdir = make directory
+file permissions
+cd = change directory
+cd .. = to step back from one directory
+cd ../.. = to step back from 2 directory
+touch .(file name) = to create hidden file
+cat (file name) = to see the content of the file
+df -kh	= disk free & human readable format in KB
+
+vi editor
+vi (file name)
+insert mode (press escape & i)
+save mode (press escape, shift+;(q! do not save the file)(wq! save the file)

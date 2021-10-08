@@ -1,0 +1,40 @@
+Cloud computing (C2)
+
+Linux/unix - Operating System
+
+AWS : Amazon cloud
+Microsoft azure
+Oracle cloud interface
+
+AWS?
+It is an online platform that provides flexible,affordable and cost-effective cloud computing solutions.
+
+DevOps?
+DevOps is not a singe tool, its a combination of multiple tool
+it is a set of practices that combines software devolopment and IT Operations
+it aims to shorten the systems development life cycle and provides continuous delivery with high software quality.
+
+What Is Server?
+A computor program which manages accros to a centralized resources.
+
+What is a Instance in AWS?
+Instance is nothing but Server
+
+Ubuntu Server 20.04 LTS?
+It is a one of the 
+
+EC2 - Elastic cloud computing
+
+
+DevOps tools:
+.Linux - 
+.Git - Source code management (all DevOps engineer work as a administator)
+(A set of code is stored in a 
+.Maven - Build tool 
+.Jenkins - Automation
+.Ansible - Powerful Automation tool (1 server install = 1hr ; 1000 server install = 1hr)
+.docker & Kubernetes - 
+.Nagios - To monitor server Performance
+.Shell script - to automate all task
+
+
